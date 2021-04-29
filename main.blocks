@@ -15,4 +15,4 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"D(rrI,W$5GNig(9F^@d2"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="h$,mjeSEEDZLZO~Tv~R7"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"D(rrI,W$5GNig(9F^@d2"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="h$,mjeSEEDZLZO~Tv~R7"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="mixer_play_sound" id="=2X+WmPuVH`e^ufzSP2G"><field name="sound">music.baDing</field></block></next></block></statement></block></xml>
